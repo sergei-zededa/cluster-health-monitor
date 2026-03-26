@@ -1,0 +1,10 @@
+# variables for shell-script-for-statuschange.sh
+TO="recepient1@example.com"
+BCC="recepient2@example.com"
+FROM="robot@example.com"
+ROBOTNAME="Reports Robot"
+SMTPSERVER="smtp.example.com"
+SMTPUSER="mailsenderuser"
+SMTPPASS="mailsenderpassword123456"
+MESSIDDOMAIN="example.com"
+SMTPPORT=587

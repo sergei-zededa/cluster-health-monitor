@@ -1,0 +1,8 @@
+auth_token_file = token.txt
+server_url      = https://zedcontrol.example.com/api/v1/cloud/healthreport
+redscript       = ./shell-script-red.sh
+changescript    = ./shell-script-for-statuschange-2.sh
+log_file        = logfile.log
+response_file   = fullresponse.txt
+healthstatus    = healthstatus.txt
+uaaddon         = -MyHealth/0.1
